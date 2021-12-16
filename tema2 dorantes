@@ -1,11 +1,53 @@
-<titel> <html> </body><!DOCTYPE html></html>
-</head><body><head></title><meta charset="utf-8"></head><article>
-<juanpablodorantes> <juanpablopardo> </juanpablopardo></juanpablodorantes>
-<hgroup>
-    <h1> quien va a ganar el superbowl <h1>
-    <h3> finalistas <h3>
-    <h3> quie va a cantar en el medio tiempo <h3>
-    <h3> quein va a ser el mvp del partido <h3>
-</hgroup>
-<p> este tema va a estar interesante porque vamos a predecir un poco el futuro y vamos a ver que equipo resiste pasra llegar al superbowl </p>
-<!-- fin tema 2 -->
+<!DOCTYPE html>
+<meta charset='utf-8'>
+
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+
+    <title>JUNIR HIGTH</title>
+</head>
+<body>
+
+    <section>
+        <header>
+            <h1></h1>
+        </header>
+
+        <main>
+            <!--aqui van los articles **-->
+            <!--inicia primera entrada-->
+            <article>
+                <header>
+                    <hgroup>
+                        <h2>"auto"> quien va a ganar el super bowl</h2>
+                        <h4>15/12/2021</h4>
+                    </hgroup>
+                </header>
+                <div>
+                    <h3> beels y arizona tienen muy buenatemporada </h3>
+
+                    <p> cristian nodal con belinda </p>
+
+                    <p> andre hoopking</p>
+                    
+
+                </div>
+                <footer>
+
+                </footer>
+            </article>  
+            <!--termina primera entrada-->
+
+        </main>
+
+        <asaid>
+            <!--barra lateral-->
+        </asaid>
+        <footer>
+            <!--pie de pagina-->
+        </footer>
+        
+    </section>
+</body>
+</html>

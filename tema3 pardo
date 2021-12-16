@@ -1,11 +1,54 @@
-<titel> <html> </body><!DOCTYPE html></html>
-</head><body><head></title><meta charset="utf-8"></head><article>
-<juanpablodorantes> <juanpablopardo> </juanpablopardo></juanpablodorantes>
-<hgroup>
-    <h1>proximo presidente<h1>
-    <h3>gobernadores con buena carrera<h3>
-    <h3>candidatos<h3>
-    <h3>partidos politicos<h3>
-</hgroup>
-<p>Este tema es muy interesante e importante por que es nuestro proximo futuro de nuestro pais</p>
-<!--fin tema 3-->
+<!DOCTYPE html>
+<meta charset='utf-8'>
+
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+
+    <title>JUNIR HIGTH</title>
+</head>
+<body>
+
+    <section>
+        <header>
+            <h1></h1>
+        </header>
+
+        <main>
+            <!--aqui van los articles **-->
+            <!--inicia primera entrada-->
+            <article>
+                <header>
+                    <hgroup>
+                        <h2>"auto"> proximo presidente </h2>
+                        <h4>15/12/2021</h4>
+                    </hgroup>
+                </header>
+                <div>
+                    <h3>las carreras de governador de posuladores en su pais region ciudad 
+                        etc es muy importante</h3>
+
+                    <p>siempre hay candidatod diferentes en este caos podria ser pancho
+                         domiguez</p>
+
+                    <p> los partidos politicos siempre tienen rivalidad como pan pri morena etc</p>
+                    
+                </div>
+                <footer>
+
+                </footer>
+            </article>  
+            <!--termina primera entrada-->
+
+        </main>
+
+        <asaid>
+            <!--barra lateral-->
+        </asaid>
+        <footer>
+            <!--pie de pagina-->
+        </footer>
+        
+    </section>
+</body>
+</html>

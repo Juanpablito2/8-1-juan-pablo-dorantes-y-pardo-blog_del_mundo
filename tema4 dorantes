@@ -1,11 +1,52 @@
-<titel> <html> </body><!DOCTYPE html></html>
-</head><body><head></title><meta charset="utf-8"></head><article>
-<juanpablodorantes> <juanpablopardo> </juanpablopardo></juanpablodorantes>
-<hgroup>
-    <h1>quien va a ganar f1<h1>
-    <h3>verstapen o hamilton<h3>
-    <h3>checo hara podium <h3>
-    <h3>mazepin va a chocar <h3>
-</hgroup>
-<p> Va estar muy buena la ultima carrera en Abu Dabi por que van empatados y por eso en este momento te das cuenta que cada punto cuenta , sin duda el mejor evento deportivo del fin de semana , ha madrugar que es a las 7 am </p>
-<!--fin tema 4-->
+<!DOCTYPE html>
+<meta charset='utf-8'>
+
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+
+    <title>JUNIR HIGTH</title>
+</head>
+<body>
+
+    <section>
+        <header>
+            <h1></h1>
+        </header>
+
+        <main>
+            <!--aqui van los articles **-->
+            <!--inicia primera entrada-->
+            <article>
+                <header>
+                    <hgroup>
+                        <h2>"auto"> quien va a ganar en la f1</h2>
+                        <h4>15/12/2021</h4>
+                    </hgroup>
+                </header>
+                <div>
+                    <h3> los dos dieron el mejor esfuerso pero sono uno puede ganar </h3>
+
+                    <p> todos sabemos que checo a dado una gran temporada </p>
+
+                    <p> puede que choque </p>
+                    
+                </div>
+                <footer>
+
+                </footer>
+            </article>  
+            <!--termina primera entrada-->
+
+        </main>
+
+        <asaid>
+            <!--barra lateral-->
+        </asaid>
+        <footer>
+            <!--pie de pagina-->
+        </footer>
+        
+    </section>
+</body>
+</html>
