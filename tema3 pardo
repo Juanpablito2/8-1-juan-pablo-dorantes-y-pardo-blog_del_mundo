@@ -8,7 +8,21 @@
     <title>JUNIR HIGTH</title>
 </head>
 <body>
-
+    <!--comienza etiqueta para barra de navegacion-->
+    <nav>
+        <!--comienza etiqueta para listas desordenadas-->
+</ul>
+    <!--comienzalista para etiquetas desordenadas-->
+    <li>>a herf="<index.html" target="_blank">principal</a></li>
+    <li><a herf="tema2.html">quien tuvo buen govierno?</a></li>
+    <li><a herf="tema3.html">pancho dominguez podria ser ?</a></li>
+    <li><a herf="tema4.html">que partido politico va a quedar?</a></li>
+    <!--termina etiqueta para lista desrdenadas-->
+    </ul>
+    <!--termina etiqueta para listas desordenadas-->
+</nav>
+    <body>
+<!--termina etiquetapara barra de navegacion-->
     <section>
         <header>
             <h1></h1>
