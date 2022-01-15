@@ -12,9 +12,9 @@
     <nav>
         <ul>
             <li><a> herf="https://www.themessistore.com/es">tienda messi</a></li>
-            <li><a> herf=""</a></li>
-            <li></li>
-            <li></li>
+            <li><a> herf="https://onefootball.com/es/inicio">te enteras de todo el futbol</a></li>
+            <li><a> herf="#primer tema2"</a></li>
+            <li><a> herf="@leo_messi">instagram</a></li>
         </ul>
     </nav>
     <!--terminaa barra de navegacion-->
@@ -45,7 +45,7 @@
             <article>
                 <header>
                     <hgroup>
-                        <h2>Salida de messi del barcelona </h2>
+                        <h2>id=primer tema> Salida de messi del barcelona </h2>
                         <h4>15/12/2021</h4>
                     </hgroup>
                 </header>
