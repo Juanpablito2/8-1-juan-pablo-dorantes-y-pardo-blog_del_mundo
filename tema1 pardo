@@ -11,7 +11,10 @@
     <!--comienza barra de navegacion-->
     <nav>
         <ul>
-            <li*
+            <li><a> herf="https://www.themessistore.com/es">tienda messi</a></li>
+            <li><a> herf=""</a></li>
+            <li></li>
+            <li></li>
         </ul>
     </nav>
     <!--terminaa barra de navegacion-->
