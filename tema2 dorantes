@@ -8,7 +8,16 @@
     <title>JUNIR HIGTH</title>
 </head>
 <body>
-    <!--comienza etiqueta para barra de navegacion-->
+    <!--comienza barra de navegacion-->
+    <nav>
+        <ul>
+            <li><a> herf=""</a></li>
+            <li><a> herf=""</a></li>
+            <li><a></li>
+            <li></li>
+        </ul>
+    </nav>
+    <!--terminaa barra de navegacion-->
     <nav>
         <!--comienza etiqueta para listas desordenadas-->
 </ul>
