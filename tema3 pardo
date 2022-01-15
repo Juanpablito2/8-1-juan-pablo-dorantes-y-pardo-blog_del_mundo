@@ -7,8 +7,23 @@
 
     <title>JUNIR HIGTH</title>
 </head>
+<main>
+    <div>
+        <li><a>herf="https://www.diariodequeretaro.com.mx/analisis/autor/adan-olvera">noticieros</a></li>
+        <li><a>herf="https://lopezdoriga.com/">propuestas y mas</a></li>
+    </div>
+    <!--las mejores noticias y propuestas para este 2026-->
+</main>
 <body>
-    <!--comienza etiqueta para barra de navegacion-->
+    <!--comienza barra de navegacion-->
+    <nav>
+        <ul>
+            <li><a> herf="https://www.diariodequeretaro.com.mx/analisis/autor/adan-olvera">informacion de mas </a></li>
+            <li><a> herf="https://lopezdoriga.com/">mas noticieros</a></li>
+            <li><a> herf="https://exafm.com/">informacion extra</a></li>
+        </ul>
+    </nav>
+    <!--terminaa barra de navegacion-->
     <nav>
         <!--comienza etiqueta para listas desordenadas-->
 </ul>

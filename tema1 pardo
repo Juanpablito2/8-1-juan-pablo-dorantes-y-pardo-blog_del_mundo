@@ -6,7 +6,14 @@
     <meta charset="utf-8">
 
     <title>JUNIR HIGTH</title> <!--ES: "JUNIOR HIGH"-->
-</head>
+</head> 
+<main>
+    <div>
+        <li><a>herf="https://onefootball.com/es/inicio>pagina de futbol</a></li>
+        <li><a>herf="https://www.themessistore.com/es">tienda de messi</a></li>
+    </div>
+    <!--contiene informacion y la tienda de messi 100% oficial-->
+</main>
 <body>
     <!--comienza barra de navegacion-->
     <nav>
@@ -14,7 +21,7 @@
             <li><a> herf="https://www.themessistore.com/es">tienda messi</a></li>
             <li><a> herf="https://onefootball.com/es/inicio">te enteras de todo el futbol</a></li>
             <li><a> herf="#primer tema2"</a></li>
-            <li><a> herf="@leo_messi">instagram</a></li>
+            <li><a> herf="@leo_messi">instagram <label for="you"></label></a></li>
         </ul>
     </nav>
     <!--terminaa barra de navegacion-->

@@ -7,14 +7,20 @@
 
     <title>JUNIR HIGTH</title>
 </head>
+<main>
+    <div>
+        <li><a>herd="https://www.espn.com.mx/futbol-americano/"">mas informacion</a></li>
+        <li><a><herf="https://www.google.com/search?q=nfl&rlz=1C5CHFA_enMX922MX922&oq=nfl&aqs=chrome..69i57j0i131i433i512j0i512j0i131i433i512j0i512j0i433i512j69i60l2.4258j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/g/11nym9rnk6;6;/m/059yj;mt;fp;1;;/a">informacion unica </li>
+    </div>
+    <!--noticias importantes e partidos y tiempos-->
+</main>
 <body>
     <!--comienza barra de navegacion-->
     <nav>
         <ul>
-            <li><a> herf=""</a></li>
-            <li><a> herf=""</a></li>
-            <li><a></li>
-            <li></li>
+            <li><a> herf="https://www.espn.com.mx/futbol-americano/">informacion</a></li>
+            <li><a> herf="https://www.google.com/search?q=nfl&rlz=1C5CHFA_enMX922MX922&oq=nfl&aqs=chrome..69i57j0i131i433i512j0i512j0i131i433i512j0i512j0i433i512j69i60l2.4258j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/g/11nym9rnk6;6;/m/059yj;mt;fp;1;;">unica</a></li>
+            <li><a> herf="https://www.caliente.mx/">favoritos</a></li>
         </ul>
     </nav>
     <!--terminaa barra de navegacion-->

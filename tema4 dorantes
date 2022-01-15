@@ -7,8 +7,24 @@
 
     <title>JUNIR HIGTH</title>
 </head>
+<main>
+    <div>
+        <li><a>herf="https://www.google.com/search?q=f1&rlz=1C5CHFA_enMX922MX922&oq=f1&aqs=chrome..69i57j46i433i512j0i433i512l3j69i60l3.2538j0j7&sourceid=chrome&ie=UTF-8">noticias</a></li>
+        <li><a>herf="https://www.mercedes-benz.com.mx/es/mundo-mercedes/deportes/formula-1">elige tu favorito</a></li>
+    </div>
+    <!--contiene lasmejores noticias y los favoritos de hoy en dia -->
+</main>
+
 <body>
-    <!--comienza etiqueta para barra de navegacion-->
+    <!--comienza barra de navegacion-->
+    <nav>
+        <ul>
+            <li><a> herf="https://www.google.com/search?q=f1&rlz=1C5CHFA_enMX922MX922&oq=f1&aqs=chrome..69i57j46i433i512j0i433i512l3j69i60l3.2538j0j7&sourceid=chrome&ie=UTF-8">destacadas</a></li>
+            <li><a> herf="https://www.mercedes-benz.com.mx/es/mundo-mercedes/deportes/formula-1">favoritos</a></li>
+            <li><a> herf="https://www.redbull.com/es-es/tags/f1">favoritos 2</a></li>
+        </ul>
+    </nav>
+    <!--terminaa barra de navegacion-->
     <nav>
         <!--comienza etiqueta para listas desordenadas-->
 </ul>
