@@ -52,7 +52,7 @@
             <article>
                 <header>
                     <hgroup>
-                        <h2>id=primer tema> Salida de messi del barcelona </h2>
+                        <h2>id=primer tema> <img src="https://www.eleconomista.net/export/sites/prensagrafica/img/2021/08/09/messi_efe11565040.jpg_1162214073.jpg" > la salida de messi del barca </h2>
                         <h4>15/12/2021</h4>
                     </hgroup>
                 </header>
@@ -66,7 +66,18 @@
                         todo en la cancha y los parisinos lo recibiron con mucho entusiasmo</p>
                     
                     <p> gracias a la calida bienvenida lo mas probable es que triunfe en ella</p>
+                    
+                    <!--inicia ilustracion del articulo-->
+                    <figure>
+                        <img src="https://cdni.rt.com/actualidad/public_images/2021.08/article/610ced84e9ff715fd54df2eb.JPG" alt="messi" srcset="400px">
+                        <figurecaption> es un messi trist por su retiro de el club que le abrio los brazos y le dio la bienvenida</figcaption>
+                    </figure>
+                      <!--termina la ilustracion del articulo-->
 
+                    <figure>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/PMZy53PHbY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+                        <figcaption>aqui son las mejores jugadas de la pulga que hizo en su carrera</figcaption>
+                    </figure>
                 </div>
                 <footer>
 

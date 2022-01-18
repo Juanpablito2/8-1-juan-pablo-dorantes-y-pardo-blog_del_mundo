@@ -49,7 +49,7 @@
             <article>
                 <header>
                     <hgroup>
-                        <h2>quien va a ganar el super bowl</h2>
+                        <h2><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYBtrpRLj1D6AZAT5ploBrRegdk_MTQwwLvg&usqp=CAU" higth="300px">va a ganar el super bowl</h2>
                         <h4>15/12/2021</h4>
                     </hgroup>
                 </header>
@@ -59,7 +59,18 @@
                     <p> cristian nodal con belinda </p>
 
                     <p> andre hoopking</p>
-                    
+                   
+                <!--inicia ilustracion de el articulo-->
+                <figure>
+                   <img srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5SE7vI1CKrroOYSnL8biyvLlRbQFH-CrAEw&usqp=CAU" height="400px" width="auto"
+                   <figcaption>quien ganara?</figcaption>
+                </figure>
+                <!--termina ilustracion del articulo-->
+
+                <figure>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/rd_9TMT23cc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+                    <figcaption>trata de las jugadas mas perfectas y bien ejecutadas de la nfl</figcaption>
+                </figure>
 
                 </div>
                 <footer>
