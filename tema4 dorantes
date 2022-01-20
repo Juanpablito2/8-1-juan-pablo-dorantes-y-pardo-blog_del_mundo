@@ -52,7 +52,7 @@
                 <header>
                     <hgroup>
                         <h2><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQJmLqiQY94PoBW2CTgU0RdkyNokGaAuVjlw&usqp=CAU" height="300px" width="auto"    
-                   <h4>15/12/2021</h4>
+                        <h4>15/12/2021</h4>
                     </hgroup>
                 </header>
                 <div>
@@ -75,7 +75,16 @@
                     </figure>
                 </div>
                 <footer>
-
+                    <!--datos del autor-->
+                    <div>
+                        <span>checo perez</span> <a href="https://www.instagram.com/schecoperez/" target="blank">@checo_perez</a>
+                    </div>
+                    <!--fin de checo perez-->
+                    <!--bibliografia-->
+                    <blockquote>
+                        <p>habla de su carrera como piloto y su vida</p>
+                    </blockquote>
+                    <!--fin de la bibliografia-->
                 </footer>
             </article>  
             <!--termina primera entrada-->

@@ -62,8 +62,8 @@
                    
                 <!--inicia ilustracion de el articulo-->
                 <figure>
-                   <img srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5SE7vI1CKrroOYSnL8biyvLlRbQFH-CrAEw&usqp=CAU" height="400px" width="auto"
-                   <figcaption>quien ganara?</figcaption>
+                   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5SE7vI1CKrroOYSnL8biyvLlRbQFH-CrAEw&usqp=CAU" height="400px" width="auto"
+                   <figurecaption>quien ganara?</figurecaption> 
                 </figure>
                 <!--termina ilustracion del articulo-->
 
@@ -74,8 +74,17 @@
 
                 </div>
                 <footer>
-
-                </footer>
+                    <!--beangles campeones-->
+                    <div>
+                        <span>--beangles</span><a href="https://www.instagram.com/bengals/" target="blank"> "beangals</a>
+                    </div>
+                    <!--fin beangals-->
+                    <!--bibliografia-->
+                    <blockquote>
+                        <p> el instagram es de el quipo practicas partidos noticias e patrocinios</p>
+                    </blockquote>
+                    <!--fin bibliografia-->
+                </footer>    
             </article>  
             <!--termina primera entrada-->
 

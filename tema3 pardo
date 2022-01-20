@@ -75,7 +75,16 @@
                     </figure>
                 </div>
                 <footer>
-
+                    <!--pancho dominguez-->
+                    <div>
+                        <span>francisco</span> <a href="https://www.instagram.com/pancho_dominguez_s/" target="blank"> @pancho_dominguez_s</a>
+                    </div>
+                    <!--fin de pancho dominguez-->
+                    <!--bibliografia-->
+                    <blockquote>
+                        <p>habla de politica y de su vida diaria </p>
+                    </blockquote>
+                    <!--fin de bibliografia-->
                 </footer>
             </article>  
             <!--termina primera entrada-->

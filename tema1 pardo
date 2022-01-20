@@ -80,8 +80,18 @@
                     </figure>
                 </div>
                 <footer>
-
+                    <!--leo messi-->
+                <div>
+                    <span>leo messi</span><a href="https://www.instagram.com/leomessi/" target="blank>" @leo_messi ></a>
+                </div>
+                <!--fin leo messi-->
+                <!--bibliografia-->
+                <blackquote>
+                    <p>el perfil de messi es uno donde sube los logros el futbol y su amor por la familia</p>
+                </blackquote>
+                <!--fin bibliografia-->
                 </footer>
+                
             </article>  
             <!--termina primera entrada-->
 
