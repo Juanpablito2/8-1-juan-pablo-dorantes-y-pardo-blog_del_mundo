@@ -88,6 +88,40 @@
                 </footer>
             </article>  
             <!--termina primera entrada-->
+            <!--empieza segunda entrada semana 5 -->
+            <article>
+                <hedear>
+                    <hgroup>
+                        <!--titulo del articulo-->
+                        <h2>investigacion</h2>
+                        <!--fecha en la que se escribio esto-->
+                        <h4>21/1/2022</h4>
+                    </hgroup>
+                </hedear>
+                <!--inicia contenido del articulo-->
+                <div>
+                    <h3>quein tendra mejor ranking y progreso</h3>
+                    <p>segun la informacion que redacte en mi lectura fue
+                        el mejor govierno el de pancho dominguez que ese 
+                        hizo un queretaro fuerte y orgulloso,fue un governador
+                         exelente que pudo llevar a queretaro por el buen rumbo 
+                         y obtuvo la deuda 0 fue el unico estado de la republica 
+                         que lo logros ademas de tlxcala que la republica no lo 
+                         deja endeudarse. </p>
+                </div>
+                <lebel>estadistica del progreso de governacion de pancho dominguez</lebel><meter> value="88" min="0"</meter>
+                <!--termina contenido del articulo-->
+                <!--links-->
+                <figure>
+                    <img src="https://elpais.com/mexico/elecciones-mexicanas/2021-05-18/la-carrera-hacia-las-presidenciales-de-2024-sheinbaum-se-situa-como-favorita-y-gana-por-la-minima-a-ebrard.html">
+                    <img src="https://www.bbc.com/mundo/noticias-america-latina-57354378">
+                </figure>
+                <!--terminan links-->
+                <footer>
+
+                </footer>
+            </article>
+            <!--fin entrada: quein ganara?-->
 
         </main>
 
@@ -96,6 +130,16 @@
         </asaid>
         <footer>
             <!--pie de pagina-->
+            <div>
+                <span>juan pablo pardo parrodi</span>
+            </div>
+            <div>
+                <span>blog creado en el colegio alamos</span>
+                <span>las opiniones de este proyecto pertenecen a los autores de las entradas juan pablo pardo y dorantes </span>
+            </div>
+            <div>
+                <span>juan pablo lopez dorantes</span>
+            </div>
         </footer>
         
     </section>

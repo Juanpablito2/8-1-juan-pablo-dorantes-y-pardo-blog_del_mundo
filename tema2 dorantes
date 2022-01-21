@@ -87,6 +87,38 @@
                 </footer>    
             </article>  
             <!--termina primera entrada--> 
+            <!--empieza segunda entrada semana 5 -->
+            <article>
+                <hedear>
+                    <hgroup>
+                        <!--titulo del articulo-->
+                        <h2>investigacion</h2>
+                        <!--fecha en la que se escribio esto-->
+                        <h4>21/1/2022</h4>
+                    </hgroup>
+                </hedear>
+                <!--inicia contenido del articulo-->
+                <div>
+                    <h3>quien va a cantar en el super tazon</h3>
+                    <p>segun la informacion que redacte en mi lectura fue
+                        que va a haber 4 cantantes de alto ranking que son 
+                        still dre eminem y snop dog y mari j , la razon de
+                         por que son tantos es queson grandes artistas que
+                          compitieron y ganaron todos. </p>
+                </div>
+                <lebel>estadistica del sueldo que se van allevar contra justin beber</lebel><meter> value="70" min="0"</meter>
+                <!--termina contenido del articulo-->
+                <!--links-->
+                <figure>
+                    <img src="https://elpais.com/gente/2021-09-30/eminem-dr-dre-y-snoop-dogg-actuaran-en-el-espectaculo-de-la-super-bowl-2022-de-la-nfl.html">
+                    <img src="https://www.mediotiempo.com/futbol-americano/nfl/cuando-es-el-super-bowl-2022-quien-cantara-en-el-show-medio-tiempo">
+                </figure>
+                <!--terminan links-->
+                <footer>
+
+                </footer>
+            </article>
+            <!--fin entrada: quen cantara ?-->
 
         </main>
 
@@ -95,6 +127,16 @@
         </asaid>
         <footer>
             <!--pie de pagina-->
+            <div>
+                <span>juan pablo pardo parrodi</span>
+            </div>
+            <div>
+                <span>blog creado en el colegio alamos</span>
+                <span>las opiniones de este proyecto pertenecen a los autores de las entradas juan pablo pardo y dorantes </span>
+            </div>
+            <div>
+                <span>juan pablo lopez dorantes</span>
+            </div>
         </footer>
         
     </section>

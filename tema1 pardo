@@ -94,6 +94,36 @@
                 
             </article>  
             <!--termina primera entrada-->
+            <!--empieza segunda entrada semana 5 -->
+            <article>
+                <hedear>
+                    <hgroup>
+                        <!--titulo del articulo-->
+                        <h2>investigacion</h2>
+                        <!--fecha en la que se escribio esto-->
+                        <h4>21/1/2022</h4>
+                    </hgroup>
+                </hedear>
+                <!--inicia contenido del articulo-->
+                <div>
+                    <h3>por que se fue?</h3>
+                    <p>segun la informacion que redacte en mi lectura fue un problema 
+                        de la liga ya no lo dejaba estar ya que tenia un sueldo muy 
+                        elebado ya que tenia uno de los sueldos mas grandes del mundo.</p>
+                </div>
+                <lebel>estadistica del sueldo de messi contra la de la plantilla de barca</lebel><meter> value="50" min="0"</meter>
+                <!--termina contenido del articulo-->
+                <!--links-->
+                <figure>
+                    <img src="https://www.espn.com.mx/futbol/jugador/_/id/45843/lionel-messi">
+                    <img src="https://www.elfinanciero.com.mx/deportes/2021/08/05/por-que-se-va-messi-del-barcelona/">
+                </figure>
+                <!--terminan links-->
+                <footer>
+
+                </footer>
+            </article>
+            <!--fin entrada: por que messi se fue-->
 
         </main>
 
@@ -102,6 +132,16 @@
         </asaid>
         <footer>
             <!--pie de pagina-->
+            <div>
+                <span>juan pablo pardo parrodi</span>
+            </div>
+            <div>
+                <span><i>blog creado en el colegio alamos</i></span>
+                <span>las opiniones de este proyecto pertenecen a los autores de las entradas juan pablo pardo y dorantes </span>
+            </div>
+            <div>
+                <span>juan pablo lopez dorantes</span>
+            </div>
         </footer>
         
     </section>
