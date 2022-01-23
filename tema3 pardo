@@ -2,11 +2,12 @@
 <meta charset='utf-8'>
 
 <html lang="es">
-<head>
-    <meta charset="utf-8">
-
-    <title>JUNIR HIGTH</title>
-</head>
+    <head>
+        <meta charset="utf-8">
+        <title>JUNIR HIGTH</title> <!--ES: "JUNIOR HIGH"-->
+        <!--carga la hoja de estios-->
+        <link rel="stylesheet" href="assets/styles/estilos_pardo1.css">
+    </head> 
 <main>
     <div>
         <li><a>herf="https://www.diariodequeretaro.com.mx/analisis/autor/adan-olvera">noticieros</a></li>
