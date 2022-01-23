@@ -9,7 +9,7 @@
 </head>
 <main>
     <!--LAS ENTRADAS INICIAN CON ARTICLES-->
-    <div>
+        <div>
         <li><a>herd="https://www.espn.com.mx/futbol-americano/"">mas informacion</a></li> <!-- ESCRIBISTE MAL HREF-->
         <li><a><herf="https://www.google.com/search?q=nfl&rlz=1C5CHFA_enMX922MX922&oq=nfl&aqs=chrome..69i57j0i131i433i512j0i512j0i131i433i512j0i512j0i433i512j69i60l2.4258j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/g/11nym9rnk6;6;/m/059yj;mt;fp;1;;/a">informacion unica </li>
     <!--EL HREF TIENE QUE ESTAR DENTRO DE LA ETIQUETA <a>-->
@@ -109,7 +109,6 @@
                         still dre eminem y snop dog y mari j , la razon de
                          por que son tantos es queson grandes artistas que
                           compitieron y ganaron todos. </p>
-                </div>
                 <lebel>estadistica del sueldo que se van allevar contra justin beber</lebel><meter> value="70" min="0"</meter>
                 <!--termina contenido del articulo-->
                 <!--links-->
@@ -117,7 +116,9 @@
                     <img src="https://elpais.com/gente/2021-09-30/eminem-dr-dre-y-snoop-dogg-actuaran-en-el-espectaculo-de-la-super-bowl-2022-de-la-nfl.html">
                     <img src="https://www.mediotiempo.com/futbol-americano/nfl/cuando-es-el-super-bowl-2022-quien-cantara-en-el-show-medio-tiempo">
                 </figure>
+                <p>la nfl siempre a sido grande y fammosa y una parte de lo que lo hace eso es el medio tiempo.</p>
                 <!--terminan links-->
+                </div>
                 <footer>
 
                 </footer>

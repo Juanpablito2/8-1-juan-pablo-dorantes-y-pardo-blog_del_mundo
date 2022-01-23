@@ -18,11 +18,13 @@
     <!--comienza barra de navegacion-->
     <nav>
         <ul>
+            <!--comienza y termina cada una de las referencias de los otros archivos-->
             <li><a> herf="https://www.themessistore.com/es">tienda messi</a></li> <!--LO MISMO DE ARRIBA-->
             <li><a> herf="https://onefootball.com/es/inicio">te enteras de todo el futbol</a></li>
             <li><a> herf="#primer tema2"</a></li>
             <li><a> herf="@leo_messi">instagram <label for="you"></label></a></li>
         </ul>
+        <!--termina etiqueta para listas desordenadas-->
     </nav>
     <!--terminaa barra de navegacion-->
     /
@@ -80,6 +82,12 @@
                     </figure>
                 </div>
                 <footer>
+
+                </footer>
+            <article>
+                <!--termina primera entrada-->
+                <!--inicia segunda entrada -->
+            </article>
                     <!--leo messi-->
                 <div>
                     <span>leo messi</span><a href="https://www.instagram.com/leomessi/" target="blank>" @leo_messi ></a>
@@ -94,7 +102,7 @@
                 
             </article>  
             <!--termina primera entrada-->
-            <!--empieza segunda entrada semana 5 -->
+            <!--empieza tercera entrada semana 5 -->
             <article>
                 <hedear>
                     <hgroup>
@@ -110,7 +118,6 @@
                     <p>segun la informacion que redacte en mi lectura fue un problema 
                         de la liga ya no lo dejaba estar ya que tenia un sueldo muy 
                         elebado ya que tenia uno de los sueldos mas grandes del mundo.</p>
-                </div>
                 <lebel>estadistica del sueldo de messi contra la de la plantilla de barca</lebel><meter> value="50" min="0"</meter>
                 <!--termina contenido del articulo-->
                 <!--links-->
@@ -118,7 +125,9 @@
                     <img src="https://www.espn.com.mx/futbol/jugador/_/id/45843/lionel-messi">
                     <img src="https://www.elfinanciero.com.mx/deportes/2021/08/05/por-que-se-va-messi-del-barcelona/">
                 </figure>
+                <p>messi a sido un jugador increible incluso las personas dice cosas como que nos de la tierra y asi.</p>
                 <!--terminan links-->
+                </div>
                 <footer>
 
                 </footer>
