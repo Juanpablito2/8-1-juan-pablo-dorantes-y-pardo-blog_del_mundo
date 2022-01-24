@@ -83,8 +83,6 @@
                     </figure>
                 </div>
                 <footer>
-
-                </footer>
             <article>
                 <!--termina primera entrada-->
                 <!--inicia segunda entrada -->
@@ -130,7 +128,20 @@
                 <!--terminan links-->
                 </div>
                 <footer>
-
+                    <article>
+                        <!--termina primera entrada-->
+                        <!--inicia segunda entrada -->
+                    </article>
+                            <!--leo messi-->
+                        <div>
+                            <span>leo messi</span><a href="https://www.instagram.com/leomessi/" target="blank>" @leo_messi ></a>
+                        </div>
+                        <!--fin leo messi-->
+                        <!--bibliografia-->
+                        <blackquote>
+                            <p>el instagram es una aplicacion padre donde en el perfil de leo messi sube mucho de fut bol unos logros y presume como convive con su familia.</p>
+                        </blackquote>
+                        <!--fin bibliografia-->
                 </footer>
             </article>
             <!--fin entrada: por que messi se fue-->

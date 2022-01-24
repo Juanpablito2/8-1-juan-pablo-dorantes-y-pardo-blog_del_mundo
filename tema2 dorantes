@@ -12,7 +12,7 @@
     <!--LAS ENTRADAS INICIAN CON ARTICLES-->
         <div>
         <li><a>herd="https://www.espn.com.mx/futbol-americano/"">mas informacion</a></li> <!-- ESCRIBISTE MAL HREF-->
-        <li><a><herf="https://www.google.com/search?q=nfl&rlz=1C5CHFA_enMX922MX922&oq=nfl&aqs=chrome..69i57j0i131i433i512j0i512j0i131i433i512j0i512j0i433i512j69i60l2.4258j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/g/11nym9rnk6;6;/m/059yj;mt;fp;1;;/a">informacion unica </li>
+        <li><a><herf="https://www.google.com/search?q=nflrlz=1C5CHFA_enMX922MX922oq=nflaqs=chrome..69i57j0i131i433i512j0i512j0i131i433i512j0i512j0i433i512j69i60l2.4258j1j7sourceid=chromeie=UTF-8#sie=lg;/g/11nym9rnk6;6;/m/059yj;mt;fp;1;;/a">informacion unica </li>
     <!--EL HREF TIENE QUE ESTAR DENTRO DE LA ETIQUETA <a>-->
         </div>
     <!--noticias importantes e partidos y tiempos-->
@@ -22,7 +22,7 @@
     <nav>
         <ul>
             <li><a> herf="https://www.espn.com.mx/futbol-americano/">informacion</a></li>
-            <li><a> herf="https://www.google.com/search?q=nfl&rlz=1C5CHFA_enMX922MX922&oq=nfl&aqs=chrome..69i57j0i131i433i512j0i512j0i131i433i512j0i512j0i433i512j69i60l2.4258j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/g/11nym9rnk6;6;/m/059yj;mt;fp;1;;">unica</a></li>
+            <li><a> herf="https://www.google.com/search?q=nflrlz=1C5CHFA_enMX922MX922oq=nflaqs=chrome..69i57j0i131i433i512j0i512j0i131i433i512j0i512j0i433i512j69i60l2.4258j1j7sourceid=chromeie=UTF-8#sie=lg;/g/11nym9rnk6;6;/m/059yj;mt;fp;1;;">unica</a></li>
             <li><a> herf="https://www.caliente.mx/">favoritos</a></li>
             <!--MISMO COMENTARIO QUE EL DE ARRIBA-->
         </ul>
@@ -67,7 +67,7 @@
                    
                 <!--inicia ilustracion de el articulo-->
                 <figure>
-                   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5SE7vI1CKrroOYSnL8biyvLlRbQFH-CrAEw&usqp=CAU" height="400px" width="auto"
+                   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5SE7vI1CKrroOYSnL8biyvLlRbQFH-CrAEw&usqp=CAU" height="400px" width="auto">
                    <figurecaption>quien ganara?</figurecaption> 
                 </figure>
                 <!--termina ilustracion del articulo-->
@@ -121,7 +121,16 @@
                 <!--terminan links-->
                 </div>
                 <footer>
-
+                    <!--beangles campeones-->
+                    <div>
+                        <span>--beangles</span><a href="https://www.instagram.com/bengals/" target="blank"> "beangals</a>
+                    </div>
+                    <!--fin beangals-->
+                    <!--bibliografia-->
+                    <blockquote>
+                        <p> el instagram presume entrenamientos y patrocinios de diferentes marcas y poderosos partidos y noticias.</p>
+                    </blockquote>
+                    <!--fin bibliografia-->
                 </footer>
             </article>
             <!--fin entrada: quen cantara ?-->

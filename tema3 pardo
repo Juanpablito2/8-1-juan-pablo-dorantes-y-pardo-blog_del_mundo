@@ -120,7 +120,16 @@
                 <!--terminan links-->
                 </div>
                 <footer>
-
+                    <!--pancho dominguez-->
+                    <div>
+                        <span>francisco</span> <a href="https://www.instagram.com/pancho_dominguez_s/" target="blank"> @pancho_dominguez_s</a>
+                    </div>
+                    <!--fin de pancho dominguez-->
+                    <!--bibliografia-->
+                    <blockquote>
+                        <p>nos platica de sus logros y lo que hace para hacer un mejor queretaro y presume su ciudad. </p>
+                    </blockquote>
+                    <!--fin de bibliografia--> 
                 </footer>
             </article>
             <!--fin entrada: quein ganara?-->

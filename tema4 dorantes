@@ -122,7 +122,16 @@
                 </article>
                 </div>
                 <footer>
-
+                    <!--datos del autor-->
+                    <div>
+                        <span>checo perez</span> <a href="https://www.instagram.com/schecoperez/" target="blank">@checo_perez</a>
+                    </div>
+                    <!--fin de checo perez-->
+                    <!--bibliografia-->
+                    <blockquote>
+                        <p>platica de sus competencias modificaciones y noticias que hay.</p>
+                    </blockquote>
+                    <!--fin de la bibliografia-->
                 </footer>
             </article>
             <!--fin entrada: quien sera el mejor-->
