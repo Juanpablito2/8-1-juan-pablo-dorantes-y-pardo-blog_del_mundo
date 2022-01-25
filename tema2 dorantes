@@ -21,6 +21,7 @@
     <!--comienza barra de navegacion-->
     <nav>
         <ul>
+            <li><a> class="resaltado" href="index.html" target="_blank">principal</a></li>
             <li><a> herf="https://www.espn.com.mx/futbol-americano/">informacion</a></li>
             <li><a> herf="https://www.google.com/search?q=nflrlz=1C5CHFA_enMX922MX922oq=nflaqs=chrome..69i57j0i131i433i512j0i512j0i131i433i512j0i512j0i433i512j69i60l2.4258j1j7sourceid=chromeie=UTF-8#sie=lg;/g/11nym9rnk6;6;/m/059yj;mt;fp;1;;">unica</a></li>
             <li><a> herf="https://www.caliente.mx/">favoritos</a></li>
@@ -44,7 +45,7 @@
     <body>
 <!--termina etiquetapara barra de navegacion-->
     <section>
-        <header>
+        <header> id="titulo_del_blog"
             <h1></h1>
         </header>
 

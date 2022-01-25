@@ -20,6 +20,7 @@
     <!--comienza barra de navegacion--> 
     <nav>
         <ul>
+            <li><a> class="resaltado" href="index.html" target="_blank">principal</a></li>
             <li><a> herf="https://www.google.com/search?q=f1&rlz=1C5CHFA_enMX922MX922&oq=f1&aqs=chrome..69i57j46i433i512j0i433i512l3j69i60l3.2538j0j7&sourceid=chrome&ie=UTF-8">destacadas</a></li>
             <li><a> herf="https://www.mercedes-benz.com.mx/es/mundo-mercedes/deportes/formula-1">favoritos</a></li>
             <li><a> herf="https://www.redbull.com/es-es/tags/f1">favoritos 2</a></li>
@@ -41,8 +42,7 @@
     <body>
 <!--termina etiquetapara barra de navegacion-->
     <section>
-
-        <header>
+        <header> id="titulo_del_blog"
             <h1></h1>
         </header>
 

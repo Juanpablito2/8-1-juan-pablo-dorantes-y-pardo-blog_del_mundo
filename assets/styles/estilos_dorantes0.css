@@ -1,20 +1,18 @@
-<!DOCTYPE html>
-<html lang="es">
+body{
+    background-color: black;
+}
 
+p{
+    color: blanchedalmond;
+}
+h2{
+    color: rgb(209, 39, 96);
+}
 
-        <head>
-            <meta charset="UTF-8">
-            <title> Mi tema dorantes</title>
-            <link rel="stylesheet"
-            herf="assets/style/stilo_dorantes0.css">
-        </head>
-
-        <body>
-            <h2>mi tema de trabajo</h2>
-
-            <p>
-
-            </p>
-        </body>
-
-</htm>
+.resaltado{
+    color: yellow;
+}
+#nombre_del_titulo{
+   text-align: center; 
+   font-size: 3rem;
+}
