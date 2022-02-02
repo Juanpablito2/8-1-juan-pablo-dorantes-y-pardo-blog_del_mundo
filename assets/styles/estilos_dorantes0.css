@@ -1,7 +1,10 @@
 body{
     background-color: black;
 }
-
+article{
+    color: blueviolet;
+    padding: 1.5rem;
+}
 p{
     color: blanchedalmond;
 }

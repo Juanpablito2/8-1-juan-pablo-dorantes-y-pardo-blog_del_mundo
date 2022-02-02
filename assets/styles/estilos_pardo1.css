@@ -2,6 +2,10 @@ body{
     background-color: black;
 }
 
+articles{
+    color: cornflowerblue;
+    padding: 1.5rem;
+}
 p{
     color: blanchedalmond;
 }
