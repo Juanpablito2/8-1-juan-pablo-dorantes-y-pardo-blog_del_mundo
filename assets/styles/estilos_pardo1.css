@@ -2,9 +2,42 @@ body{
     background-color: rgb(245, 239, 239);
 }
 
-articles{
+articles {
     color: cornflowerblue;
     padding: 1.5rem;
+}
+
+#nombre_del_grupo{
+    text-align: center;
+    font-size: 3rem;
+}
+
+.resaltado{
+    color: yellow;
+}
+
+nav>ul>li{
+    list-style: none;
+}
+
+nav>ul>li>a{
+    text-decoration: none;
+}
+
+#footer_blog footer{
+    margin: 2rem;
+}
+
+
+.ilustracion figure {
+    border: 4px solid ;
+    color: white;
+}
+
+.ilustracion figurecaption {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-style: italic;
 }
 p{
     color: blanchedalmond;
@@ -14,11 +47,11 @@ h2{
 }
 
 
-.resaltado{
-    color: yellow;
+article{
+    border: 1px solid rgba(240, 239, 236, 0.938);
 }
 
-#nombre_del_grupo{
-    text-align: center;
-    font-size: 3rem;
-}
+
+
+
+
