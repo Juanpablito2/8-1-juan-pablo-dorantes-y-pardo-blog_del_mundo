@@ -21,6 +21,12 @@
     </ul>
     <!--termina etiqueta para listas desordenadas-->
 </nav>
+
+<div>
+    <img class="bengals" src="https://cdn-icons-png.flaticon.com/128/6457/6457873.png" title="bengals "> alt="autor" height="auto"  width="600px " >
+    <span class="bengalies">los bengal an demostrado que son unos de lo mejores euipos que demuestran se dureza y que nunca se rinden.</span>
+</div>
+
 <main>
     <!--LAS ENTRADAS INICIAN CON ARTICLES-->
         <div>
@@ -200,7 +206,7 @@
             <div>
                 <span>juan pablo pardo parrodi</span>
             </div>
-            <div>
+            <div id="child2">
                 <span>blog creado en el colegio alamos</span>
                 <span>las opiniones de este proyecto pertenecen a los autores de las entradas juan pablo pardo y dorantes </span>
             </div>
@@ -236,11 +242,43 @@
             
                 </div>
                 <!-- Termina contenido del artículo -->
-                
+
+
+                <article>
+                    <header>
+                        <hgroup>
+                            <h2><img src="data:image/png;base64,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" alt="bengals " height="35px" width="auto"> uno de los mejores equipos de la nfl .</h2>
+
+                            <h4>23/3/22</h4>
+                        </hgroup>
+                    </header>
+                </article>
+
+
                 <footer>
                     <!-- Datos del autor -->
                     <div>
                         <span></span> <a href="https://www.instagram.com/bengals/" target="_blank">@bengals son muy buenos </a>
+                    </div>
+
+                    <div>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8whJ9zumkUNs8vXElPyl-A2WvT6QPxipFLg&usqp=CAU" alt="autor" width="35px" height="auto" >
+                        <span>burrow es un grand ecorebak ya que essta limitando y fortalecioendo los logros de los bengalies.</span>
+                    </div>
+
+                    <div>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrYbLQ_fAi8cmGw8LsWNuTSOeCRRlI07GCew&usqp=CAU" alt="autor" width="35px" height="auto" >
+                        <span>sus jugadas aveces sorprenden ya que son muy buenas </span>
+                    </div>
+
+                    <div>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvTQ3zEVa6g2m9VP561NtxNI2S5d1RDOZJQ&usqp=CAU" alt="autor" width="35px" height="auto" >
+                        <span>sus comunicaciones son buenas ya que convinan como equipo</span>
+                    </div>
+
+                    <div>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzssSlN7i_Ue-F9GRu1LzAkpErfPCOf-rjlg&usqp=CAU" alt="autor" width="35px" height="auto" >
+                        <span>lograron llegar a la final de la nfl.</span>
                     </div>
                     <!-- fin datos del autor -->
                     <!-- bibliografía -->

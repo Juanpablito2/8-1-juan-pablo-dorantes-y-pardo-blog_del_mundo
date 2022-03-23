@@ -22,6 +22,11 @@
         </ul>
         <!--termina etiqueta para listas desordenadas-->
     </nav>
+    <div>
+        <img class="pancho" src="https://cdn-icons-png.flaticon.com/128/6454/6454181.png" title="pancho mominguez"> alt="autor" height="auto"  width="600px " >
+        <span class="panchoD">pancho es una perzona inteligente y sociable.</span>
+    </div>
+
     <main>
         <div>
             <li><a>herf="https://www.diariodequeretaro.com.mx/analisis/autor/adan-olvera">noticieros</a></li>
@@ -218,7 +223,7 @@
                             <div>
                                 <span>juan pablo pardo parrodi</span>
                             </div>
-                            <div>
+                            <div id="child2">
                                 <span>blog creado en el colegio alamos</span>
                                 <span>las opiniones de este proyecto pertenecen a los autores de las entradas juan pablo
                                     pardo y dorantes </span>
@@ -254,11 +259,43 @@
                             
                                 </div>
                                 <!-- Termina contenido del artículo -->
-                                
+
+
+                                <article>
+                                    <header>
+                                        <hgroup>
+                                            <h2><img src="data:image/jpeg;base64,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" alt="pancho dominguez " height="35px" width="auto"> uno de los mejores posibles candidatos de la republica .</h2>
+                
+                                            <h4>23/3/22</h4>
+                                        </hgroup>
+                                    </header>
+                                </article>
+
+
                                 <footer>
                                     <!-- Datos del autor -->
                                     <div>
                                         <span></span> <a href="https://www.instagram.com/pancho_dominguez_s/" target="_blank">@panchodominguez habla de muchas cosas interesantes</a>
+                                    </div>
+
+                                    <div>
+                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsGKflD2yQkPY3ecDha8RxZkrAsZ-LOaPegw&usqp=CAU" alt="autor" width="35px" height="auto" >
+                                        <span>es un grande ejemplo como lo hace en familia todo </span>
+                                    </div>
+                
+                                    <div>
+                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJTJnJVjQaYUOu8KyySKEzCxHXgEweMOksHg&usqp=CAU" alt="autor" width="35px" height="auto" >
+                                        <span>tiene grandes vinculoscon gente importante </span>
+                                    </div>
+                
+                                    <div>
+                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOhfzjOgFQy8rJXP_jOsnC2Syf91ffACQbHA&usqp=CAU" alt="autor" width="35px" height="auto" >
+                                        <span>es un grande hablador en publico ya que en su universidad fue presidnete y alumno a la vez </span>
+                                    </div>
+                
+                                    <div>
+                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcDtR9ginCeMDFv2d6DOB00iORuXzfu3ZPxA&usqp=CAU" alt="autor" width="35px" height="auto" >
+                                        <span>el siempre a estado muy cercano al partido de la accion nacional.</span>
                                     </div>
                                     <!-- fin datos del autor -->
                                     <!-- bibliografía -->

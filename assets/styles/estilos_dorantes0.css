@@ -22,10 +22,30 @@ nav>ul>li{
 
 nav>ul>li>a{
     text-decoration: none;
+    text-decoration-color: #fff;
 }
 
-#footer_blog footer{
+#footer_blog footer {
     margin: 2rem;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    padding-top: 4rem;
+
+    padding-right: 0rem;
+
+    padding-left: 0rem;
+
+    font-size: 1.3em;;
+
+}
+
+#footer_blog div:nth child2 {
+    font-size: 0.9rem;
 }
 
 
@@ -78,4 +98,79 @@ section>footer {
     grid-column: span 12;
 }
 
+nav{
+    text-align: 1.3rem;
+}
+
+a>li>ul>nav>{
+    text-decoration: underline;
+    color: greenyellow;
+}
+
+nav > ul {
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-around;
+
+    border-bottom: 1px solid #fff;
+
+    padding-bottom: 0.5rem;
+}
+
+hgroup>header>article> {
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+}
+
+
+h2>hgroup>header>article> {
+    display: flex;
+
+    align-items: center;
+}
+
+img>h2>hgroup>header>article>{
+    margin: 1rem;
+
+}
+
+h2>aside>{
+    align-content: center;
+    text-align: 1.3rem;
+}
+
+
+div>aside:nth-of-type(pares){
+   background-color: rgb(44,43,43);
+}
+
+aside>div>img>{
+    background-color: #fff;
+
+    padding: 0.5rem;
+
+    border-radius: 50%;
+
+}
+
+.bengals{
+    align-content: left;
+}
+
+.bengalies{
+    align-content: center;
+}
+
+.f1{
+    align-content: left;
+}
+
+.f1p{
+    align-content: center;
+}
 
